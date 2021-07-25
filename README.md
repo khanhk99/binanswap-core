@@ -1,8 +1,6 @@
-# Pancake Factory
+# Binan Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
-
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth whitepaper on BinanSwap is available at [binanswap.finance/wpp.pdf](https://binanswap.finance/wpp.pdf).
 
 # Local Development
 
